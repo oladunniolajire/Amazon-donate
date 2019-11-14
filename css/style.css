@@ -1,0 +1,269 @@
+.container {
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    max-width: 960px;
+    width: 96%
+}
+
+.navbar {
+    background-color: #228B22;
+}
+
+.navbar-header {
+    background: #228B22;
+    margin-bottom: 20px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+nav {
+    float: right;
+
+}
+
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+    line-height: normal;
+    background: #fff;
+
+}
+
+.navbar-default {
+    border-color: #228B22;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #fff;
+    background-color: #228B22;
+}
+
+nav li {
+    background: #228B22;
+}
+
+.nav button {
+    background-color: #000;
+
+}
+
+
+li a {
+    text-decoration-line: none;
+}
+
+.story {
+    padding: 5%;
+    text-align: left;
+    margin: 20px;
+
+}
+
+.icon-bar {
+    color: #fff;
+}
+
+
+/*body code*/
+.main {
+
+    background-color: #000;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    color: #fff;
+
+}
+
+.number {
+    color: #228B22;
+}
+
+.aware {
+    margin-bottom: 40px;
+}
+
+.h3 {
+    color: deeppink;
+}
+
+
+.mission {
+    background-color: #fff;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    position: relative;
+
+}
+
+.awareness {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 0;
+    margin-top: 0;
+    height: 100px;
+
+}
+
+img {
+    height: 300px;
+
+}
+
+.content container {
+    padding: 5px;
+    margin-bottom: 25px;
+    text-align: center;
+    margin-top: 0;
+
+
+}
+
+@media(max-height:812px) {
+    .donate {
+        text-align: left;
+
+        margin-right: 0;
+        width: 80%;
+        padding-right: 0px;
+
+    }
+
+    .donate p {
+        margin: 0 0 0;
+    }
+}
+
+.contents container {
+    padding: 5px;
+    margin-bottom: 25px;
+    text-align: center;
+    margin-top: 0;
+    background-color: linear-gradient(to bottom, #66FFFFF, #80FFFFF);
+
+}
+
+
+.donate button {
+    background-color: #228B22;
+    color: #fff;
+}
+
+.btn-default:hover {
+    background-color: rgba(34, 139, 34, 0.3);
+    border-color: #228B22;
+}
+
+.icon-bar {
+    color: #228B22;
+
+}
+
+.btn {
+    color: #fff;
+    background-color: #228B22
+}
+
+
+
+.learn button {
+
+    color: #228B22;
+    border-color: #228B22;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.funny button {
+    background-color: #fff;
+    color: #228B22;
+}
+
+.donate {
+    margin-left: 50px;
+    /* background-color: rgba(112, 128, 144, 0.3);*/
+    width: 100%;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.reduce {
+
+    margin-bottom: 50px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.7)
+}
+
+.amazon {
+
+    margin-bottom: 50px;
+    height: 300px;
+    background-color: #808080;
+    text-align: center;
+
+}
+
+.conserve {
+    margin-bottom: 2%;
+    text-align: center;
+
+}
+
+img .conserve {
+    float: right;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    overflow: hidden;
+    padding: 5%;
+    margin: 0;
+}
+
+
+footer nav {
+    text-decoration: none;
+    background-color: rgba(255, 255, 255);
+    overflow: hidden;
+
+
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+body {
+    width: 100%;
+
+}
+
+footer nav {
+    background-color: #000;
+}
+
+/*@media(max-width:320px) {
+    .btn {
+        margin-right: 30%;
+    }
+
+    .donate {
+        background-color: #fff;
+    }
+}*/
